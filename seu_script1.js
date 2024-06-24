@@ -74,7 +74,6 @@ function criarBarra(var_nome = 'Seu Nome', var_avatar = '', var_insta_nome = 'se
                     </div>
                     <div class="secondary-info">
                         <p>${var_seguidores} seguidores • ${var_publi} publicaciones</p>
-                        <p>follow you</p>
                     </div>
                     <a href="${var_insta_url}" target="_blank">Ver perfil</a>
                 </div>
